@@ -1,0 +1,4 @@
+I, [2015-01-08T09:56:56.973281 #8666]  INFO -- BankAccount Sino: Deposit 5000
+I, [2015-01-08T09:56:56.973568 #8666]  INFO -- BankAccount Sino: Withdraw 3000
+I, [2015-01-08T09:56:56.973783 #8666]  INFO -- BankAccount Seyha: Deposit 50000
+I, [2015-01-08T09:56:56.973980 #8666]  INFO -- BankAccount Seyha: Withdraw 3000
